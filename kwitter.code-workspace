@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../kwitter"
+		},
+		{
+			"path": "../C94_practice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C94_practice"
+	}
+}
